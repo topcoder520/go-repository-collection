@@ -12,5 +12,5 @@ github.com/pkg/errors  (error处理)
 
 gopkg.in/yaml.v2 (yaml操作)    
 
-https://github.com/andlabs/ui  (go ui)      
-https://github.com/lxn/walk  (go ui)     
+github.com/andlabs/ui  (go ui)      
+github.com/lxn/walk  (go ui)     
