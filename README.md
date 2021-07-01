@@ -11,3 +11,6 @@ github.com/spf13/cobra  (go命令行解析及脚手架,简化命令应用开发)
 github.com/pkg/errors  (error处理)    
 
 gopkg.in/yaml.v2 (yaml操作)    
+
+https://github.com/andlabs/ui  (go ui)      
+https://github.com/lxn/walk  (go ui)     
