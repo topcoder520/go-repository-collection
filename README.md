@@ -14,3 +14,5 @@ gopkg.in/yaml.v2 (yaml操作)
 
 github.com/andlabs/ui  (go ui)      
 github.com/lxn/walk  (go ui)     
+
+github.com/PuerkitoBio/goquery (html解析)   
