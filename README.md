@@ -2,7 +2,9 @@
    
 github.com/mattn/go-isatty (判断终端)    
 
-github.com/topcoder520/pb  (命令行进度条)    
+github.com/topcoder520/pb  (命令行进度条)  
+
+github.com/howeyc/gopass (终端密码输入并隐藏密码显示)    
 
 github.com/topcoder520/fdlr  (go http下载器)    
 
