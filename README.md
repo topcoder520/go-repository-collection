@@ -6,6 +6,8 @@ github.com/topcoder520/pb  (命令行进度条)
 
 github.com/howeyc/gopass (终端密码输入并隐藏密码显示)    
 
+github.com/gookit/color (终端字体颜色)
+
 github.com/topcoder520/fdlr  (go http下载器)    
 
 github.com/spf13/cobra  (go命令行解析及脚手架,简化命令应用开发)    
