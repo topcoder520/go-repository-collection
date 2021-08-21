@@ -10,6 +10,7 @@ github.com/howeyc/gopass
 
 //终端字体颜色    
 github.com/gookit/color 
+github.com/pterm/pterm --终端打印机
 
 //go http下载器      
 github.com/topcoder520/fdlr     
@@ -38,4 +39,4 @@ github.com/jiujuan/go-collection
 github.com/bazil/fuse (fuse 可用来编写用户态文件系统,/dev/fuse请求和响应的封装你)
 
 //redis                  
-github.com/go-redis 
+github.com/go-redis  
