@@ -9,8 +9,8 @@ github.com/topcoder520/pb
 github.com/howeyc/gopass     
 
 //终端字体颜色    
-github.com/gookit/color 
-github.com/pterm/pterm --终端打印机
+github.com/gookit/color         
+github.com/pterm/pterm --终端打印机      
 
 //go http下载器      
 github.com/topcoder520/fdlr     
