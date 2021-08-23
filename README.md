@@ -35,8 +35,9 @@ github.com/PuerkitoBio/goquery
 //收录的awesome-go项目，学习基础系列，go项目实战，go源码分析，go开发者成长路线图等等，把他们收集起来学习        
 github.com/jiujuan/go-collection 
 
-//文件系统 fuse         
-github.com/bazil/fuse (fuse 可用来编写用户态文件系统,/dev/fuse请求和响应的封装你)
+//文件系统          
+github.com/bazil/fuse (fuse请求和响应协议的解析，可用来编写用户态文件系统,/dev/fuse请求和响应的封装)    
+github.com/fsnotify/fsnotify //文件变动监控    
 
 //redis                  
 github.com/go-redis  
